@@ -1,2 +1,4 @@
 # OpenMTB
-开放的Mojang/MCBBS To BMCLAPI
+> [!WARNING]
+> 有时候BMCLAPI未同步文件会出现下载文件错误
+> 目前未做Liteloader和OptiFine的
